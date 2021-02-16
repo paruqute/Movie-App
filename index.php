@@ -7,6 +7,9 @@
     <title>Movie portal</title>
 </head>
 <body>
+    <div class="container">
+    <div class="row">
+    <div class="col col-12 col-sm-12">
     <table class="table">
 
         <tr>
@@ -40,5 +43,8 @@
             <td><button class="btn btn-primary">Submit</button></td>
         </tr>
     </table>
+    </div>
+    </div>
+    </div>
 </body>
 </html>
